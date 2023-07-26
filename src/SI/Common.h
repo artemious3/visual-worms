@@ -17,8 +17,8 @@
 #include <cmath>
 #include <memory>
 #include <SFML/Graphics.hpp>
-typedef std::vector<std::vector<float>> fmatrix;
-typedef std::set<std::pair<float, float>> positionsSet;
+typedef std::vector< std::vector<float> > fmatrix;
+typedef std::set< std::pair<float, float> > positionsSet;
 
 //_______________________PARAMETERS__________________________
 
