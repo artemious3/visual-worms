@@ -2,6 +2,12 @@
 
 The program draws beautiful animated patterns, using concepts of swarm intelligence. The algorithm is known as **Physarum Simulation**.
 
+<img src="img/ex1.png" alt="drawing" width="400"/>
+
+<img src="img/ex2.png" alt="drawing" width="400"/>
+
+<img src="img/ex3.png" alt="drawing" width="400"/>
+
 ## How it works
 
 Patterns drawn in the window are vizualization of *substance*. The *substance* is emitted by some kind of organisms, called *agents*. 
