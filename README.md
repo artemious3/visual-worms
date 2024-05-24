@@ -21,3 +21,6 @@ While moving, each agent emits the substance on the field. The amount of substan
 
 If agent's detector finds more substance than the others, the agent changes its direction by constant value (*_dANGLE* in Common.h)
 
+## Build
+
+On Linux with installed SFML, from src folder run ``g++ -lsfml-system -lsfml-window -lsfml-graphics main.cpp SI/SIWindow.cpp SI/Agent.cpp -o visual-worms``
